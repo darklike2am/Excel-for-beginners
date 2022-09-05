@@ -9,4 +9,7 @@ While doing this, I learnt how to
 3. How to use Absolute and Relative references
 4. Saving Excel files in CSV 
 
-I learnt all this from 
+I learnt all this from [FreeCodeCamp](https://www.youtube.com/watch?v=Vl0H-qTclOg&t=2379s)
+You should check it out too.
+
+See you tomorrow!
