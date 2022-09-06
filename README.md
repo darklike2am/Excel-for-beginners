@@ -1,6 +1,6 @@
 # Excel-for-beginners
-I'll be documenting my process of improving my skills on excel here
------------------------------
+I'll be documenting my progress in Excel here. 
+------------------------------
 # Day 1.
 
 I started using Excel for Data analysis today by creating a Payroll.
@@ -14,6 +14,7 @@ I learnt all this from [FreeCodeCamp](https://www.youtube.com/watch?v=Vl0H-qTclO
 You should check it out too.
 
 See you tomorrow!
+
 -----------------------------------
 # Day 2 and 3. 
 
