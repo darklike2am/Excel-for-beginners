@@ -18,8 +18,8 @@ See you tomorrow!
 -----------------------------------
 # Day 2 and 3. 
 
-I did a continuation from yesterday's video. 
-While doing this, I learnt about
+I did a continuation from yesterday's video. I did a Grade Book and a Decision Table.
+While doing these, I learnt about
 1. Making Decisions using excel
 2. Creating charts
 3. Using Conditional Formating
