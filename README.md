@@ -1,7 +1,7 @@
 # Excel-for-beginners
 I'll be documenting my process of improving my skills on excel here
 -----------------------------
-#Day 1.
+# Day 1.
 
 I started using Excel for Data analysis today by creating a Payroll.
 While doing this, I learnt how to 
@@ -15,7 +15,8 @@ You should check it out too.
 
 See you tomorrow!
 -----------------------------------
-#Day 2 and 3. 
+# Day 2 and 3. 
+
 I did a continuation from yesterday's video. 
 While doing this, I learnt about
 1. Making Decisions using excel
