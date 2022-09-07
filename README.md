@@ -30,3 +30,22 @@ I learnt all this from [FreeCodeCamp](https://www.youtube.com/watch?v=Vl0H-qTclO
 You should check it out too.
 
 See you tomorrow!
+
+---------------------------------------
+# Day 4.
+
+Today, I work on a downloaded sales Database. 
+I wlearnt about the following things
+1. Using 'IF' Statements.
+2. Using  Text to column 
+3. Using 'SUMIF' Function
+4. How to sort data
+5. How to Filter Data
+6. I also learnt how to use Pivot Tables
+7. Then did a little Data Visualization with pie charts.
+
+I learnt all this from [FreeCodeCamp](https://www.youtube.com/watch?v=Vl0H-qTclOg&t=2379s)
+You should check it out too.
+
+See you tomorrow!
+
