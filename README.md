@@ -49,3 +49,21 @@ You should check it out too.
 
 See you tomorrow!
 
+# Day 5 and 6
+
+Today, I worked on 
+1. Importing 'txt' files into excel
+2. Formulas to Split cells (=LEFT, =MID, =RIGHT)
+3. VLOOKUP Formular
+4. IF formula
+5. =CONCATENATE Formula
+6. Pivot Tables
+7. Charts 
+
+
+
+I learnt all this from [FreeCodeCamp](https://www.youtube.com/watch?v=Vl0H-qTclOg&t=2379s)
+You should check it out too.
+
+See you tomorrow!
+
