@@ -67,3 +67,6 @@ You should check it out too.
 
 See you tomorrow!
 
+Also, I did Solving problems with Excel. 
+
+[Click Here to Try](https://github.com/shadsluiter/ExcelExamples/blob/master/Problem%20Solving%20with%20Excel%20Spreadsheets%20Part%202.pdf)
